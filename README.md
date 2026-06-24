@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Bruno 👋
+- 💻 Software Engineer II @ idwall
+- ⌨️ Typescript, Node, React, Vue
+- 📫 CS degree at UEM
 
 <!--
 **DuoWaMisi/DuoWaMisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
